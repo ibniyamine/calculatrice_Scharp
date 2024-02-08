@@ -1,0 +1,16 @@
+E:\licence 3\Csharp\TP\interface\Calculatrice_1\Calculatrice_1\bin\Debug\net8.0-windows\Calculatrice_1.exe
+E:\licence 3\Csharp\TP\interface\Calculatrice_1\Calculatrice_1\bin\Debug\net8.0-windows\Calculatrice_1.deps.json
+E:\licence 3\Csharp\TP\interface\Calculatrice_1\Calculatrice_1\bin\Debug\net8.0-windows\Calculatrice_1.runtimeconfig.json
+E:\licence 3\Csharp\TP\interface\Calculatrice_1\Calculatrice_1\bin\Debug\net8.0-windows\Calculatrice_1.dll
+E:\licence 3\Csharp\TP\interface\Calculatrice_1\Calculatrice_1\bin\Debug\net8.0-windows\Calculatrice_1.pdb
+E:\licence 3\Csharp\TP\interface\Calculatrice_1\Calculatrice_1\obj\Debug\net8.0-windows\Calculatrice_1.Form1.resources
+E:\licence 3\Csharp\TP\interface\Calculatrice_1\Calculatrice_1\obj\Debug\net8.0-windows\Calculatrice_1.csproj.GenerateResource.cache
+E:\licence 3\Csharp\TP\interface\Calculatrice_1\Calculatrice_1\obj\Debug\net8.0-windows\Calculatrice_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\licence 3\Csharp\TP\interface\Calculatrice_1\Calculatrice_1\obj\Debug\net8.0-windows\Calculatrice_1.AssemblyInfoInputs.cache
+E:\licence 3\Csharp\TP\interface\Calculatrice_1\Calculatrice_1\obj\Debug\net8.0-windows\Calculatrice_1.AssemblyInfo.cs
+E:\licence 3\Csharp\TP\interface\Calculatrice_1\Calculatrice_1\obj\Debug\net8.0-windows\Calculatrice_1.csproj.CoreCompileInputs.cache
+E:\licence 3\Csharp\TP\interface\Calculatrice_1\Calculatrice_1\obj\Debug\net8.0-windows\Calculatrice_1.dll
+E:\licence 3\Csharp\TP\interface\Calculatrice_1\Calculatrice_1\obj\Debug\net8.0-windows\refint\Calculatrice_1.dll
+E:\licence 3\Csharp\TP\interface\Calculatrice_1\Calculatrice_1\obj\Debug\net8.0-windows\Calculatrice_1.pdb
+E:\licence 3\Csharp\TP\interface\Calculatrice_1\Calculatrice_1\obj\Debug\net8.0-windows\Calculatrice_1.genruntimeconfig.cache
+E:\licence 3\Csharp\TP\interface\Calculatrice_1\Calculatrice_1\obj\Debug\net8.0-windows\ref\Calculatrice_1.dll
